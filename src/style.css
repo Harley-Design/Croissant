@@ -35,6 +35,10 @@ a:visited {
   color: rgb(147, 147, 147);
 }
 
+.active {
+  font-weight: bold;
+}
+
 .container {
   background: white;
   padding: 20px;
