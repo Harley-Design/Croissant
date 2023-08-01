@@ -1,0 +1,33 @@
+body {
+  display: block;
+  margin: 40px auto;
+  max-width: 700px;
+}
+
+h1,
+h2,
+p {
+  text-align: center;
+}
+
+h1,
+h2 {
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 56px;
+}
+
+a {
+  display: block;
+  margin: 0 auto;
+  text-decoration: none;
+}
+
+.container {
+  padding: 20px;
+  border: 1px solid bisque;
+  border-radius: 6px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+}
